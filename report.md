@@ -1,6 +1,6 @@
 # Pointers Assignment Report
 
-**GitHub Repository**: [https://github.com/yourusername/pointers-assignments](https://github.com/yourusername/pointers-assignments)
+**GitHub Repository**: [https://github.com/AnnaStepanian/pointers-assignments](https://github.com/AnnaStepanian/pointers-assignments)
 
 ## Overview
 
